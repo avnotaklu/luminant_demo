@@ -1,0 +1,792 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.9/lottie.min.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\ajax\libs\bodymovin\5.5.9\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/17K1rrNrgeNDc7KzkiHvFe/6fcdd43b5becaf0378d049d91f42a8a6/comp-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\17K1rrNrgeNDc7KzkiHvFe\6fcdd43b5becaf0378d049d91f42a8a6\comp-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/1B0UX3wUsjjuJSig6x0Wgw/46f9f968d7ef7761a250dbaae0a3374a/bna-05.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1B0UX3wUsjjuJSig6x0Wgw\46f9f968d7ef7761a250dbaae0a3374a\bna-05.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/1fZWLNu72rROHImgaVurtz/05a843672470154d6d3c5001c281cfdf/mercari-3.jpeg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1fZWLNu72rROHImgaVurtz\05a843672470154d6d3c5001c281cfdf\mercari-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/1JlBncBfcfG1L3SKpV5Pym/eedbc84cccdd9e21b6b9e3f2b576ba51/05-murakami.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1JlBncBfcfG1L3SKpV5Pym\eedbc84cccdd9e21b6b9e3f2b576ba51\05-murakami.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/1P4gAVAuKqSW4s6UUlB3u8/f7bafc17a7f0ba24c8d644ae6d819fdd/murakami-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1P4gAVAuKqSW4s6UUlB3u8\f7bafc17a7f0ba24c8d644ae6d819fdd\murakami-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/1V4M25Aju16ebJkob4MNJN/5ec406aa1212e1e80fbaa9417e7a81f6/NEXTEFX_-_Abstract_Dragon__Mon_Koutaro_Ooyama__-BCTION__DOPPEL___Room_Img_1__BnA_Alter_Museum__2019_photo_Tomooki_Kengaku_.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1V4M25Aju16ebJkob4MNJN\5ec406aa1212e1e80fbaa9417e7a81f6\NEXTEFX_-_Abstract_Dragon__Mon_Koutaro_Ooyama__-BCTION__DOPPEL___Room_Img_1__BnA_Alter_Museum__2019_photo_Tomooki_Kengaku_.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/2jd7uFoFa0Td3dy39VA5LT/aec3d4404bf703fb7de2b737f53f3efa/canada-04-01.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2jd7uFoFa0Td3dy39VA5LT\aec3d4404bf703fb7de2b737f53f3efa\canada-04-01.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/2OKDXoooE3XbFZkuUZR1on/a4d44ed633ae7fa3cca97ef8e8b39d05/murakami-02-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2OKDXoooE3XbFZkuUZR1on\a4d44ed633ae7fa3cca97ef8e8b39d05\murakami-02-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/2r4QgTtui6Abpr5tptuyUo/5a438eeda25b2f4ba62bae491104e609/canada-03-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2r4QgTtui6Abpr5tptuyUo\5a438eeda25b2f4ba62bae491104e609\canada-03-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/2rwci3pAIFqla67CBSHh68/dd40c1e8c2879bd59d0726fe42b8978e/cas-03.jpeg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2rwci3pAIFqla67CBSHh68\dd40c1e8c2879bd59d0726fe42b8978e\cas-03.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/2yVcm2LgX2mSvRxDKWEG7c/52f7b371426147baad626eda4cb66887/comp-04-03.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2yVcm2LgX2mSvRxDKWEG7c\52f7b371426147baad626eda4cb66887\comp-04-03.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/37pi1zzX6TpStodBHSyavU/429e714666a91722b0c2748c5489a0f4/bna.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\37pi1zzX6TpStodBHSyavU\429e714666a91722b0c2748c5489a0f4\bna.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3B88G8Szqbir2Kghtz8KXx/d91b40cb6c44650fd1652eb8665877eb/mercari-4-1.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3B88G8Szqbir2Kghtz8KXx\d91b40cb6c44650fd1652eb8665877eb\mercari-4-1.gif
+Content Type: image/gif
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3ddE7muNzJWFJRf2omZdVI/198bef0c8b15b3738695c6bbb95ed32f/mercari-1.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3ddE7muNzJWFJRf2omZdVI\198bef0c8b15b3738695c6bbb95ed32f\mercari-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3GZu8ESoceNWl5DoqNIp5b/aea73f8325897b075b85bbb9f030b795/canada-05.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3GZu8ESoceNWl5DoqNIp5b\aea73f8325897b075b85bbb9f030b795\canada-05.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3jnFBq9Pwo99ffsuepQfAz/dfdf4a6fa1623cf48664342faabbb054/waso-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3jnFBq9Pwo99ffsuepQfAz\dfdf4a6fa1623cf48664342faabbb054\waso-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3qwyMb3dlnftjguPTa2WLh/31efca267e83a014053e4f411f985e49/cas-07.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3qwyMb3dlnftjguPTa2WLh\31efca267e83a014053e4f411f985e49\cas-07.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3rbiPDYKAfxQCeNnnujv0h/a752ecbf8e420530f6c0fbfa7ddeec71/mercari-5-4.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3rbiPDYKAfxQCeNnnujv0h\a752ecbf8e420530f6c0fbfa7ddeec71\mercari-5-4.gif
+Content Type: image/gif
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/3RkojTzd95blfCLr5IZ4Ve/53268cb1f171c9d42ef47206f3bd7f61/mercari-5-3.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\3RkojTzd95blfCLr5IZ4Ve\53268cb1f171c9d42ef47206f3bd7f61\mercari-5-3.gif
+Content Type: image/gif
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/46g43MEgjtc6OcxjNkPTfc/6babe5944a1f3ef310304f9a89819454/IWA09840-3-5-5.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\46g43MEgjtc6OcxjNkPTfc\6babe5944a1f3ef310304f9a89819454\IWA09840-3-5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4KHATa14zMzoldBOeSYQXP/6b32ae6e1e00b2018da2590b54b113a3/canada-08.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4KHATa14zMzoldBOeSYQXP\6b32ae6e1e00b2018da2590b54b113a3\canada-08.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4P2ZCRRETi7pkQyiqalp8j/bb8cedbf7fc00207577970ab70c76ab9/comp-03.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4P2ZCRRETi7pkQyiqalp8j\bb8cedbf7fc00207577970ab70c76ab9\comp-03.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4pTBHJgyRV8jcJDiHzlp5o/a631a3e193d0a8f1b69e0a23d3c09b3c/canada-09.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4pTBHJgyRV8jcJDiHzlp5o\a631a3e193d0a8f1b69e0a23d3c09b3c\canada-09.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4vJWXJa2Tl4um8tuRszQtw/b6a77410f49aa6a5de6517e09d23e9e7/waso-04-02.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4vJWXJa2Tl4um8tuRszQtw\b6a77410f49aa6a5de6517e09d23e9e7\waso-04-02.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4XbVzBd2ocQkl46dnfQMbI/a270166dd410e5dced892b7296b96f47/02-canada_goose.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4XbVzBd2ocQkl46dnfQMbI\a270166dd410e5dced892b7296b96f47\02-canada_goose.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/4Y8iWPjOdoxXKFZN5C23pz/e23920cae80a5dc9d54a654f704940ef/murakami-04-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4Y8iWPjOdoxXKFZN5C23pz\e23920cae80a5dc9d54a654f704940ef\murakami-04-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/57Fnywzt8n5lAIH63NYsFq/e5667c0646d5af85c2dd9adf5221772c/canada-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\57Fnywzt8n5lAIH63NYsFq\e5667c0646d5af85c2dd9adf5221772c\canada-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/57TKECAjiJQttSSKLRMtgb/babd4826dd4744e296fda781c926c697/mercari-5-1.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\57TKECAjiJQttSSKLRMtgb\babd4826dd4744e296fda781c926c697\mercari-5-1.gif
+Content Type: image/gif
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/5cBcZnL9JCnl0zzDEwAunG/f0f561d109d3b6eb3779faa881dfe35b/canada-02-04.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\5cBcZnL9JCnl0zzDEwAunG\f0f561d109d3b6eb3779faa881dfe35b\canada-02-04.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/5efOOExHifdPYsIomda6iT/5fcac58cfd6d07d654ad09c7caf18458/comp-04-02.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\5efOOExHifdPYsIomda6iT\5fcac58cfd6d07d654ad09c7caf18458\comp-04-02.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/5rw8IV7V29O0TOyj7jeZTb/6bec9663922e479c3dab1f1875440a3f/mercari-5-2.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\5rw8IV7V29O0TOyj7jeZTb\6bec9663922e479c3dab1f1875440a3f\mercari-5-2.gif
+Content Type: image/gif
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/5xX40lcMO15sAKwXfgcuaB/d3cccbd939c026ad3f9219d69d9541b9/IWA09842-5-6-6.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\5xX40lcMO15sAKwXfgcuaB\d3cccbd939c026ad3f9219d69d9541b9\IWA09842-5-6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/5Yst2Gfi7Jm1zy10tVz7pC/d90aba317d57e5c262392b7dd8ad5620/canada-04-03.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\5Yst2Gfi7Jm1zy10tVz7pC\d90aba317d57e5c262392b7dd8ad5620\canada-04-03.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/628Czvh9qTRIoKvb8vV7PS/91e747c7dc31503c83474c40d924f609/murakami-04-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\628Czvh9qTRIoKvb8vV7PS\91e747c7dc31503c83474c40d924f609\murakami-04-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6B7yCuLpd4wgTMBRi828cU/8905d9d0c746b6cde6e3f992a4ab2bfb/canada-04-02.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6B7yCuLpd4wgTMBRi828cU\8905d9d0c746b6cde6e3f992a4ab2bfb\canada-04-02.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6Bw5Lay5m5f6Tx9Qq48tvQ/133eb49f3d71ac1cf86897655aeb5c77/bna-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6Bw5Lay5m5f6Tx9Qq48tvQ\133eb49f3d71ac1cf86897655aeb5c77\bna-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6dbIdPKooWAahLMUmSx6n4/bb10d694d0a913b2c71ebfc08f37a08d/comp-04-04.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6dbIdPKooWAahLMUmSx6n4\bb10d694d0a913b2c71ebfc08f37a08d\comp-04-04.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6dt4bBmg7ayubf2c1Zd4eB/806c7f4cda86825946e10b36911a1ba9/waso-03.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6dt4bBmg7ayubf2c1Zd4eB\806c7f4cda86825946e10b36911a1ba9\waso-03.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6ELvNZjpoJULywyE1cVwaw/f2b993ad913a94e8a08ad64ab50977d1/cas-01-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6ELvNZjpoJULywyE1cVwaw\f2b993ad913a94e8a08ad64ab50977d1\cas-01-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6GwEXXUsSAZ0ebKq3rr2nc/8876d85191f9083fa122082d2339fc12/06-mercari.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6GwEXXUsSAZ0ebKq3rr2nc\8876d85191f9083fa122082d2339fc12\06-mercari.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6k7kNQUqDoP86zt0UXP7FL/639326cea82d22a05d02c177553598c1/canada-02-03.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6k7kNQUqDoP86zt0UXP7FL\639326cea82d22a05d02c177553598c1\canada-02-03.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6pzJkd4npTM15I2VxD0Fwr/ab6229e79b33ba3900f12b961eefa071/canada-03-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6pzJkd4npTM15I2VxD0Fwr\ab6229e79b33ba3900f12b961eefa071\canada-03-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6QnZMMUapiYhaplOMncXzi/39c1a90651ac4aaeb9dbaeb073e29945/mercari-2.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6QnZMMUapiYhaplOMncXzi\39c1a90651ac4aaeb9dbaeb073e29945\mercari-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/6WEdF2ThUBJ7y2AIUq4LS0/92ee7bad1f6fad5beea4b9a22119ce71/comp-04-01.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6WEdF2ThUBJ7y2AIUq4LS0\92ee7bad1f6fad5beea4b9a22119ce71\comp-04-01.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7baZQSHuYHFlqSBGcKa5XQ/87e8bbec2293b77f8764a423796d6f9e/canada-06.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7baZQSHuYHFlqSBGcKa5XQ\87e8bbec2293b77f8764a423796d6f9e\canada-06.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7bzxyaB4XxeNhKPsDlM209/049314acd2357c103031022fb0db84d4/waso-05.jpeg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7bzxyaB4XxeNhKPsDlM209\049314acd2357c103031022fb0db84d4\waso-05.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7DX0yFaZjnvNijHdLcQmWN/29e17e8a57bb97d38bd8a2346cff987b/canada-07.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7DX0yFaZjnvNijHdLcQmWN\29e17e8a57bb97d38bd8a2346cff987b\canada-07.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7eYcy94Mz13yy3giUDK9nb/74e385f422170fa87acedfad908bfdc7/02-cas.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7eYcy94Mz13yy3giUDK9nb\74e385f422170fa87acedfad908bfdc7\02-cas.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7le0UZQIhOkm52I9j2sfR/950b7671c01575d2f2556140711b6180/murakami-02-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7le0UZQIhOkm52I9j2sfR\950b7671c01575d2f2556140711b6180\murakami-02-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/7sX16LkI97WVaOHXV45UNL/9fa949bc43c8bd04acb474a65c0a067c/07-comp.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\7sX16LkI97WVaOHXV45UNL\9fa949bc43c8bd04acb474a65c0a067c\07-comp.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/erbcMpXpYOB1LxtupMmjN/4174697d05282d512b3855fb4f7f8918/waso-04-01.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\erbcMpXpYOB1LxtupMmjN\4174697d05282d512b3855fb4f7f8918\waso-04-01.png
+Content Type: image/png
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/MbVPqi9Kk0eeendUYmQpt/fff228aed0911f2bb7ed5c4b6b75f419/comp-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\MbVPqi9Kk0eeendUYmQpt\fff228aed0911f2bb7ed5c4b6b75f419\comp-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/qPxw2rJBg6NFytMxw8Nij/15550fa3c4f45cb7b9d4c41c9fe668bd/01-shiseido.jpeg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\qPxw2rJBg6NFytMxw8Nij\15550fa3c4f45cb7b9d4c41c9fe668bd\01-shiseido.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/sPTRnKqEQ8WAL2JVtY2HD/4ff06a307dfce1800434f8b41b215299/canada-02-01.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\sPTRnKqEQ8WAL2JVtY2HD\4ff06a307dfce1800434f8b41b215299\canada-02-01.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/TJQ7iubypCBzTvwJHUH01/8702a540c96104ad8fae44eb1fcf3a69/canada-02-02.jpg
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\TJQ7iubypCBzTvwJHUH01\8702a540c96104ad8fae44eb1fcf3a69\canada-02-02.jpg
+Content Type: image/jpeg
+
+Uri: https://images.ctfassets.net/5aiudyucsf3w/zOuskwsQ7wjMfvWDTDJt6/d5f9fa23a9f2f976e2717b945704e9cb/mercari-4-2.gif
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\zOuskwsQ7wjMfvWDTDJt6\d5f9fa23a9f2f976e2717b945704e9cb\mercari-4-2.gif
+Content Type: image/gif
+
+Uri: https://monopo.nyc/
+File Name: C:\Downloaded Web Sites\monopo.nyc\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/checkSupport.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\checkSupport.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/favicon.ico
+File Name: C:\Downloaded Web Sites\monopo.nyc\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://monopo.nyc/top.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\top.mp4
+Content Type: video/mp4
+
+Uri: https://monopo.nyc/work/bna/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\bna\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/canada-goose-nomad-collection/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\canada-goose-nomad-collection\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/cellular-agriculture-society-webdesign/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\cellular-agriculture-society-webdesign\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/comp-rebranding/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\comp-rebranding\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/hypebeast-takashi-murakami-x-vans/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\hypebeast-takashi-murakami-x-vans\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/mercari-sans-webdesign/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\mercari-sans-webdesign\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/work/shiseido-waso-19aw/
+File Name: C:\Downloaded Web Sites\monopo.nyc\work\shiseido-waso-19aw\index.htm
+Content Type: text/html
+
+Uri: https://monopo.nyc/_nuxt/0691b24.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\0691b24.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/11effeb.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\11effeb.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/15c746d.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\15c746d.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/2162cdb.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\2162cdb.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/24d04e9.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\24d04e9.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/70838b9.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\70838b9.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/819152e.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\819152e.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/a12ebe3.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\a12ebe3.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/d6f4a3c.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\d6f4a3c.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/dbea17a.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\dbea17a.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-500.1b7dde0.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-500.1b7dde0.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-500.6983a4c.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-500.6983a4c.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-500.6ba2930.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-500.6ba2930.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-500.e45f616.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-500.e45f616.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-500.e45f616.eot?
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-500.e45f616-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-700.13f9fb8.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-700.13f9fb8.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-700.221b884.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-700.221b884.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-700.852fc44.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-700.852fc44.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-700.d396414.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-700.d396414.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-700.d396414.eot?
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-700.d396414-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-regular.30ac0ac.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-regular.30ac0ac.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-regular.5ed3e53.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-regular.5ed3e53.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-regular.9a4ad2d.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-regular.9a4ad2d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-regular.9a4ad2d.eot?
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-regular.9a4ad2d-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/noto-sans-jp-regular.dd17c82.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\noto-sans-jp-regular.dd17c82.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Bold.10bb74c.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Bold.10bb74c.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Bold.1dcc241.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Bold.1dcc241.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Bold.2b1f189.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Bold.2b1f189.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Bold.799d54a.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Bold.799d54a.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Bold.b852ba3.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Bold.b852ba3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-BoldItalic.0bc3731.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-BoldItalic.0bc3731.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-BoldItalic.49c5787.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-BoldItalic.49c5787.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-BoldItalic.7228e21.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-BoldItalic.7228e21.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-BoldItalic.da340c2.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-BoldItalic.da340c2.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-BoldItalic.e7bb12c.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-BoldItalic.e7bb12c.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Heavy.37ce0aa.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Heavy.37ce0aa.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Heavy.65e8e1f.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Heavy.65e8e1f.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Heavy.7ad7b78.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Heavy.7ad7b78.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Heavy.9c8bb25.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Heavy.9c8bb25.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Heavy.e3bf6e8.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Heavy.e3bf6e8.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-HeavyItalic.88085de.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-HeavyItalic.88085de.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-HeavyItalic.8a747d9.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-HeavyItalic.8a747d9.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-HeavyItalic.b5d6bf2.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-HeavyItalic.b5d6bf2.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-HeavyItalic.e025d2c.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-HeavyItalic.e025d2c.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-HeavyItalic.fca96d6.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-HeavyItalic.fca96d6.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Light.53d2001.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Light.53d2001.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Light.95ef47e.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Light.95ef47e.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Light.aa4522f.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Light.aa4522f.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Light.e9ce5b0.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Light.e9ce5b0.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Light.ed415ed.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Light.ed415ed.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-LightItalic.418e3d0.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-LightItalic.418e3d0.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-LightItalic.8902be4.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-LightItalic.8902be4.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-LightItalic.8dbd7f2.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-LightItalic.8dbd7f2.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-LightItalic.c59ca43.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-LightItalic.c59ca43.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-LightItalic.e304293.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-LightItalic.e304293.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Medium.210816b.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Medium.210816b.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Medium.29f632a.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Medium.29f632a.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Medium.64fd8f0.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Medium.64fd8f0.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Medium.74e39c5.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Medium.74e39c5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Medium.c473e20.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Medium.c473e20.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-MediumItalic.2375e0b.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-MediumItalic.2375e0b.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-MediumItalic.5211981.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-MediumItalic.5211981.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-MediumItalic.7e80a8d.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-MediumItalic.7e80a8d.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-MediumItalic.e905e1d.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-MediumItalic.e905e1d.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-MediumItalic.fd6d9e3.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-MediumItalic.fd6d9e3.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Regular.064dc1d.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Regular.064dc1d.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Regular.5c16cbd.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Regular.5c16cbd.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Regular.ad80b85.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Regular.ad80b85.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Regular.c1fc0d8.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Regular.c1fc0d8.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-Regular.d8684ce.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-Regular.d8684ce.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-RegularItalic.544b945.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-RegularItalic.544b945.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-RegularItalic.61f2c2d.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-RegularItalic.61f2c2d.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-RegularItalic.73f7d10.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-RegularItalic.73f7d10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-RegularItalic.99d26a4.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-RegularItalic.99d26a4.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-RegularItalic.f600118.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-RegularItalic.f600118.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBold.1e1d13c.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBold.1e1d13c.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBold.2b35b09.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBold.2b35b09.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBold.8250dcc.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBold.8250dcc.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBold.84ed617.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBold.84ed617.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBold.c3c7c9d.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBold.c3c7c9d.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBoldItalic.0f2b990.otf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBoldItalic.0f2b990.otf
+Content Type: font/otf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBoldItalic.6e5644c.woff
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBoldItalic.6e5644c.woff
+Content Type: font/woff
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBoldItalic.b77c8a1.ttf
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBoldItalic.b77c8a1.ttf
+Content Type: font/ttf
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBoldItalic.c4bd78c.eot
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBoldItalic.c4bd78c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://monopo.nyc/_nuxt/fonts/Roobert-SemiBoldItalic.ecf2c87.woff2
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\fonts\Roobert-SemiBoldItalic.ecf2c87.woff2
+Content Type: font/woff2
+
+Uri: https://monopo.nyc/_nuxt/img/CONTACT.3988dd3.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\CONTACT.3988dd3.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/D.f7dfe76.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\D.f7dfe76.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/E.6242a39.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\E.6242a39.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/E.6d56366.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\E.6d56366.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/G.b953b72.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\G.b953b72.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/G.e0399cd.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\G.e0399cd.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/I.f987352.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\I.f987352.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/MANIFESTO.440648c.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\MANIFESTO.440648c.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/N.0faf856.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\N.0faf856.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/N.ab21fba.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\N.ab21fba.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/N2.afd073a.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\N2.afd073a.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/nextLink.9bb4c41.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\nextLink.9bb4c41.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/noto-sans-jp-500.42faccd.svg
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\noto-sans-jp-500.42faccd.svg
+Content Type: image/svg+xml
+
+Uri: https://monopo.nyc/_nuxt/img/noto-sans-jp-700.f4367e5.svg
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\noto-sans-jp-700.f4367e5.svg
+Content Type: image/svg+xml
+
+Uri: https://monopo.nyc/_nuxt/img/noto-sans-jp-regular.445ea6b.svg
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\noto-sans-jp-regular.445ea6b.svg
+Content Type: image/svg+xml
+
+Uri: https://monopo.nyc/_nuxt/img/S.9e87827.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\S.9e87827.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/T.92bcb67.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\T.92bcb67.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/TEAM.bb42c57.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\TEAM.bb42c57.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/U.ae77823.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\U.ae77823.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/WORK.89bcf33.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\WORK.89bcf33.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/img/Y.a09c3de.png
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\img\Y.a09c3de.png
+Content Type: image/png
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/manifest.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\manifest.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/bna/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\bna\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/bna/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\bna\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/canada-goose-nomad-collection/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\canada-goose-nomad-collection\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/canada-goose-nomad-collection/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\canada-goose-nomad-collection\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/cellular-agriculture-society-webdesign/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\cellular-agriculture-society-webdesign\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/cellular-agriculture-society-webdesign/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\cellular-agriculture-society-webdesign\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/comp-rebranding/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\comp-rebranding\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/comp-rebranding/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\comp-rebranding\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/hypebeast-takashi-murakami-x-vans/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\hypebeast-takashi-murakami-x-vans\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/hypebeast-takashi-murakami-x-vans/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\hypebeast-takashi-murakami-x-vans\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/mercari-sans-webdesign/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\mercari-sans-webdesign\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/mercari-sans-webdesign/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\mercari-sans-webdesign\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/shiseido-waso-19aw/payload.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\shiseido-waso-19aw\payload.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/static/1645168777/work/shiseido-waso-19aw/state.js
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\static\1645168777\work\shiseido-waso-19aw\state.js
+Content Type: application/javascript
+
+Uri: https://monopo.nyc/_nuxt/videos/out.5fba6f1.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\_nuxt\videos\out.5fba6f1.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/1YRhlTT6FetdfQXnSo4X4t/faf4d905aff5843b9b280bdcd5346a01/cas-02-min.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\1YRhlTT6FetdfQXnSo4X4t\faf4d905aff5843b9b280bdcd5346a01\cas-02-min.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/2ZtSefztrYXvyE0PsREzmm/c5367974de88aa1744ed4ef7bac26334/cas-06-min.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\2ZtSefztrYXvyE0PsREzmm\c5367974de88aa1744ed4ef7bac26334\cas-06-min.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/4gVBtJbQmYrOdARzXnTXGH/b9f4c56512e8644ee2781638f6c4686d/comp-05.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\4gVBtJbQmYrOdARzXnTXGH\b9f4c56512e8644ee2781638f6c4686d\comp-05.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/6ZdN8RaqAaDEmaHVRPGhzx/5bc4117c7b07d8e8b08a1adbdb4bf95d/cas-05-min.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6ZdN8RaqAaDEmaHVRPGhzx\5bc4117c7b07d8e8b08a1adbdb4bf95d\cas-05-min.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/6zveHsIBO06vfVY2JRYKPU/5a491d7b688be30bfa4ce7391cf8545d/cas-01-01-min.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\6zveHsIBO06vfVY2JRYKPU\5a491d7b688be30bfa4ce7391cf8545d\cas-01-01-min.mp4
+Content Type: video/mp4
+
+Uri: https://videos.ctfassets.net/5aiudyucsf3w/q27S4VVe7k5MUZUjCwfRN/651a7e7c9abbc2df57e2a2292447b87c/cas-04-min.mp4
+File Name: C:\Downloaded Web Sites\monopo.nyc\5aiudyucsf3w\q27S4VVe7k5MUZUjCwfRN\651a7e7c9abbc2df57e2a2292447b87c\cas-04-min.mp4
+Content Type: video/mp4
+
