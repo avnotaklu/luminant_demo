@@ -79,12 +79,14 @@ function colorCursorCorrectly(elem) {
     ) {
         document.querySelector("#dot_cursor").style.backgroundColor =
             "rgb(255,255,255)";
+        document.querySelector("#dot_cursor").className = "white_cursor";
     }
     if (
         window.getComputedStyle(elem, null).backgroundColor.toString() ==
         "rgb(255, 255, 255)"
     ) {
         document.querySelector("#dot_cursor").style.backgroundColor = "rgb(0,0,0)";
+        document.querySelector("#dot_cursor").className = "black_cursor";
     }
 }
 
